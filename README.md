@@ -1,2 +1,2 @@
 # invoicepilot-ai
-"InvoicePilot — turns a deal brief into a proposal, 
+InvoicePilot-AI — turns a deal brief into a proposal, invoice, and ROI one-pager
